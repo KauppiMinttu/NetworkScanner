@@ -49,11 +49,11 @@ Python 3.8 or higher installed.
 ## Example
 
 ```
-Enter the target IP address: 192.168.1.1
+Enter the target IP address: 10.0.0.1
 Enter the start port: 20
 Enter the end port: 100
 ----------------------------------------
-Scan started on target: 192.168.1.1
+Scan started on target: 10.0.0.1
 Time started: 2024-12-12 10:00:00
 ----------------------------------------
 ██████████████████████████████          60.00% 48/80 ports scanned
